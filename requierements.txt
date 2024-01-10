@@ -1,2 +1,3 @@
 pip3 install random 
 pip3 install colorama
+pip3 install os
