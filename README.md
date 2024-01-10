@@ -4,4 +4,4 @@
 `[ ! ]` Se `generan dos números`, y, hasta que no coincidan, no se paran de generar y `comparar.`
 
 `[ + ]` Para ponerlo en marcha, ejecuta estos comandos:
-<h3>git clone<h3>
+<h3>git clone https://github.com/3xpl017/JuegoDeDados<h3>
