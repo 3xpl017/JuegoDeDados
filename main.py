@@ -9,7 +9,7 @@ generados = random.randint(1, 6)
 
 while True:
     if aleatorio == generados:
-        print(Fore.GREEN + f'[!] Los números {generados} y {aleatorio} coinciden.')
+        print(Fore.GREEN + f'[!] Los números {generados} y {aleatorio} coinciden.\n')
         break
 
     else:
