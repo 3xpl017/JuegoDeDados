@@ -1,5 +1,5 @@
 # JuegoDeDados
-`[ ! ]` Este es un simple programa hecho en `Python.`
+`[!]` Este es un simple programa hecho en `Python.`
 
 `[ ! ]` Se `generan dos números`, y, hasta que no coincidan, no se paran de generar y `comparar.`
 
