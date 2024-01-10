@@ -1,1 +1,2 @@
 pip3 install random 
+pip3 install colorama
