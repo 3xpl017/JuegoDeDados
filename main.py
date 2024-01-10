@@ -1,4 +1,4 @@
-import random
+import random, os
 from colorama import Fore, Back
 
 numeros = [1, 2, 3, 4, 5, 6]
