@@ -8,6 +8,7 @@ aleatorio = random.choice(numeros)
 generados = random.randint(1, 6)
 
 os.system('clear')
+time.sleep(1)
 
 while True:
     if aleatorio == generados:
