@@ -11,7 +11,7 @@
 
 `[ ! ]` No olvides verificar si tienes `instalado python3 y pip3.` Activa el permiso de admin con el comando `sudo su` para que no haya problemas al `ejecutarlo.`
   
-![image](https://github.com/3xpl017/JuegoDeDados/assets/153451582/bed47ccf-1113-4349-89ab-854b023324cd)
+[![image.png](https://i.postimg.cc/rsp48FG2/image.png)](https://postimg.cc/XGTqLWDs)
 <hr>
 
 `[ ! ]` Contacta conmigo por `Discord` mandándome una invitación `(qwfkr).`
