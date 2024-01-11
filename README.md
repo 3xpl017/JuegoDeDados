@@ -9,7 +9,7 @@
 <h3>[ 3 ] sudo bash setup.sh</h3>
 <h3>[ 4 ] python3 main.py</h3>
 
-`[ ! ]` No olvides verificar si tienes `instalado python3 y pip3.` Activa el permiso de admin con el comando `sudo su` para que no haya problemas al `ejecutarlo.`
+`[ ! ]` No olvides verificar si tienes `instalado python3 y pip3`, aunque el archivo `setup.sh` ya te los instalará automaticamente. Activa el permiso de admin con el comando `sudo su` para que no haya problemas al `ejecutarlo.`
   
 [![image.png](https://i.postimg.cc/rsp48FG2/image.png)](https://postimg.cc/XGTqLWDs)
 <hr>
